@@ -52,6 +52,7 @@ group :test do
   #gem 'factory_girl_rails'
   gem 'selenium-webdriver'
   gem 'libnotify'
+  gem 'factory_girl_rails'
 
 
 
