@@ -5,6 +5,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.1'
 gem 'bootstrap-sass'
 gem 'bcrypt'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 # Use postgresql as the database for Active Record
 gem 'pg'
 # Use SCSS for stylesheets
